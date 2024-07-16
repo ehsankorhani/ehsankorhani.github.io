@@ -113,38 +113,32 @@ analytics:
 # Site Author
 author:
   name: "Ehsan"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "In search for the meaning."
-  location: "Australia"
+  avatar: "/assets/images/logo.jpg"
+  bio: "In search for the meaning"
+  location: "Sydney"
   email: "ehsan.korhani@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ehsan.korhani@gmail.com"
+      # url: "mailto:ehsan.korhani@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ehsankorhani.com"
+      # url: "https://ehsankorhani.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ehsankorhani"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ehsankorhani/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -154,9 +148,6 @@ footer:
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url:
 
 # Reading Files
