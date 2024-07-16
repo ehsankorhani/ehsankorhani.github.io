@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: single
 title: Map records without Id to their related records
 date: 2024-01-06
 author: ehsan
+categories: salesforce
 tags: [Salesforce, Apex]
-thumbnail-img: /assets/img/apex-maps-01.jpg
-comments: true
 ---
 
 I recently encountered a task involving a multi-layered data structure. To outline the requirements concisely:
