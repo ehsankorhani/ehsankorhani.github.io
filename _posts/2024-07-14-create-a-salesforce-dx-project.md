@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: single
 title: Create a Salesforce DX project
 date: 2024-07-14
 author: ehsan
 tags: [Salesforce, CLI, SFDX]
-cover-img:
-thumbnail-img: /assets/img/salesforce-cli.png
-share-img:
-comments: true
 ---
 
 #### 1. Create a New Playground
