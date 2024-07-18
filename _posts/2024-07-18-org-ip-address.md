@@ -51,7 +51,7 @@ public class ViewIPAddressController {
 
 ## VisualForce Page
 
-A Visualforce page is required to send the current page's PageReference to the controller.
+A VisualForce page is required to send the current page's PageReference to the controller.
 
 ```html
 <apex:page controller="ViewIPAddressController" showHeader="false">
