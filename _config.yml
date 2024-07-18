@@ -112,8 +112,8 @@ analytics:
 
 # Site Author
 author:
-  name: "Ehsan"
-  avatar: "/assets/images/logo.png"
+  name: #"Ehsan"
+  avatar: #"/assets/images/logo.png"
   bio: "In search for the meaning"
   location: "Sydney"
   email: "ehsan.korhani@gmail.com"
