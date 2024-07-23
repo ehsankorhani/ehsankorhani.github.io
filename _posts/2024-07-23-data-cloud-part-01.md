@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Data Cloud Journey - Part 1
+title: Data Cloud Journey - Part 1 - What is Data Cloud
 date: 2024-07-23
 author: ehsan
 categories: Data Cloud
 tags: [Salesforce, Data Cloud]
 ---
 
-# What is Data Cloud?
+## What is Data Cloud?
 
 In today's data-driven world, companies deal with vast amounts of data from many sources. If used effectively, this data can offer valuable insights, guide strategic decisions, and promote innovation. However, a major challenge they face is data fragmentation.
 
@@ -17,7 +17,7 @@ Salesforce Data Cloud is a hyperscale data engine built into Salesforce that con
 
 ![Data Cloud brings all of your data into CRM](/assets/images/data-cloud/data-cloud-brings-all-data-into-crm.png "How Data Cloud Works")
 
-## Key Functionalities
+### Key Functionalities
 
 - **Connects to All Your Data Sources**: Salesforce Data Cloud supports various out-of-the-box connectors for all Salesforce Clouds (Sales, Service, Marketing, and Commerce) and can integrate data from sources like Google Cloud Storage, Amazon S3, and Azure.
 - **Transforms and Harmonizes Data**: It ingests data from multiple sources, transforming and harmonizing it into a common data model. For example, it unifies user identities across different systems, referring to them consistently.
@@ -25,11 +25,11 @@ Salesforce Data Cloud is a hyperscale data engine built into Salesforce that con
 - **Activates Data Across All Salesforce Applications**: The unified data can be used across all Salesforce applications, including AI models, recommendations, and data visualizations.
 - **Powers Salesforce Einstein**: It serves as a context engine for Salesforce Einstein, enhancing AI-driven insights and actions.
 
-## Benefits
+### Benefits
 
 Salesforce Data Cloud benefits various industries, including financial services, marketing, and streaming services. For example, in financial services, Data Cloud enhances fraud detection by analyzing and unifying data from multiple sources. In marketing, it enables real-time, personalized communications across various channels, improving customer engagement.
 
-## Additional Features
+### Additional Features
 
 - **Privacy**: The Privacy data model in Data Cloud helps manage consent data, ensuring compliance across all industries.
 - **Data Deletion**: Data Cloud includes robust data security measures. Data deletion requests can be submitted through the consent API and are processed at intervals of 30, 60, and 90 days to ensure complete removal.
