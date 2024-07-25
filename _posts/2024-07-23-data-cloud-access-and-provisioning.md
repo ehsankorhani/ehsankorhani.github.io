@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Data Cloud Journey - Part 2 - Access and Provisioning
-date: 2024-07-23
+title: Data Cloud Access and Provisioning
+date: 2024-07-24
 author: ehsan
 categories: Data Cloud
 tags: [Salesforce, Data Cloud]

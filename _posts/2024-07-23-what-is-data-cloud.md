@@ -1,13 +1,11 @@
 ---
 layout: single
-title: Data Cloud Journey - Part 1 - What is Data Cloud
+title: What is Data Cloud?
 date: 2024-07-23
 author: ehsan
 categories: Data Cloud
 tags: [Salesforce, Data Cloud]
 ---
-
-## What is Data Cloud?
 
 In today's data-driven world, companies deal with vast amounts of data from many sources. If used effectively, this data can offer valuable insights, guide strategic decisions, and promote innovation. However, a major challenge they face is data fragmentation.
 
